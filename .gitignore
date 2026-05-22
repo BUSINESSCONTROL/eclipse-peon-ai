@@ -41,3 +41,5 @@ Thumbs.db
 lib/
 sources/
 org.sterl.llmpeon.core/.classpath
+config.bat
+node_modules
